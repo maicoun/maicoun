@@ -1,6 +1,6 @@
 ### Oii! Eu sou o desenvolvedor front-end Maicon Gonçalves!
 
-- 🌱 Cursanso o 4º semestre de análise e desenvolvimento de sistemas
+- 🌱 Cursanso o 5º semestre de análise e desenvolvimento de sistemas
 - 📫 Entre em contato comigo pelo meu e-mail: maicongoncalves.e@gmail.com
 
 <div align="center">
